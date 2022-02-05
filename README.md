@@ -1,2 +1,5 @@
 # Hola-mundo
-Mi primer repo :D
+
+
+Autor: Yo merengues
+fecha: feb 5
